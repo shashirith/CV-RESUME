@@ -1,0 +1,46 @@
+body{
+text-align: center;
+font-family: 'Shadows Into Light', cursive;
+}
+h1{
+	font-size: 90px;
+color: #B2B8A3;
+font-family: 'Bebas Neue', cursive;
+}
+h2{
+	font-size: 50px;
+color: #FFA900;
+font-family: 'Dancing Script', cursive;
+}
+h3{
+font-family: 'Dancing Script', cursive;
+font-size: 45px;
+}
+p{
+	font-size: 45px;
+}
+.top{
+padding:200px;
+background:#FFF5EB;
+margin: 0px;
+}
+.middle{
+padding: 200px;
+background:#DEEDF0 ;
+margin: 0px;
+}
+.bottom{
+padding: 200px;
+background:#F4C7AB ;
+margin: 0px;
+}
+.info{
+	padding: 50px;
+	background:#C68B59;
+}
+.phuto{
+	width: 300px;
+}
+hr{
+	width: 20%;
+}
