@@ -1,5 +1,7 @@
 body{
 text-align: center;
+width: 100%;
+	height: 100%;
 font-family: 'Shadows Into Light', cursive;
 }
 h1{
@@ -24,6 +26,12 @@ padding:200px;
 background:#FFF5EB;
 margin: 0px;
 }
+.phuto2{
+	width: 500px;
+}
+.animated{
+	display: inline-block;
+}
 .middle{
 padding: 200px;
 background:#DEEDF0 ;
@@ -36,11 +44,41 @@ margin: 0px;
 }
 .info{
 	padding: 50px;
-	background:#C68B59;
+	background:#FCDEC0;
 }
 .phuto{
 	width: 300px;
 }
 hr{
 	width: 20%;
+}
+.btn {
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 21px;
+  background: #FFA900;
+  border-color:#FFA900 ;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F4C7AB;
+  text-decoration: none;
+}
+.bodyd{
+text-align: center;
+width: 100%;
+height: 100%;
+background: #000000;
+}
+.division{
+	background: whitesmoke;
+	border-width: 0px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+.art{
+	width: 500px;
+	height: 413px;
 }
