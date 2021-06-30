@@ -61,16 +61,17 @@ hr{
   padding: 20px 20px 20px 20px;
   text-decoration: none;
 }
+.bodyd{
+	background: #DBF6E9;
+text-align: center;
+width: 100%;
+	height: 100%;
+font-family: 'Shadows Into Light', cursive;
+}
 
 .btn:hover {
   background: #F4C7AB;
   text-decoration: none;
-}
-.bodyd{
-text-align: center;
-width: 100%;
-height: 100%;
-background: #000000;
 }
 .division{
 	background: whitesmoke;
